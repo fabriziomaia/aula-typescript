@@ -1,0 +1,23 @@
+{
+  "name": "aula-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriziomaia/aula-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabriziomaia/aula-typescript/issues"
+  },
+  "homepage": "https://github.com/fabriziomaia/aula-typescript#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
